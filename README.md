@@ -44,6 +44,7 @@ The installation uses a [Brewfile](Brewfile) of packages and a few scripts.
 - [vim](http://vim-bootstrap.com/)
 - [sublime](http://sublimetext.com)
 - [vscode](https://code.visualstudio.com/)
+- [nano](https://www.nano-editor.org/)
 
 ### Package managers
 - [composer](https://getcomposer.org/)

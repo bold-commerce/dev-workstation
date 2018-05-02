@@ -2,7 +2,7 @@ cask_args appdir: '/Applications'
 
 # taps
 tap 'caskroom/homebrew-cask' || true
-tap 'homebrew/homebrew-php' || true
+tap 'homebrew/core' || true
 
 # version control
 brew 'git'
@@ -14,9 +14,6 @@ brew 'bash-completion'
 brew 'node'
 brew 'go'
 brew 'php70'
-brew 'php70-mcrypt'
-brew 'php70-xdebug'
-brew 'php70-redis'
 brew 'php56'
 
 brew 'rbenv'
@@ -53,6 +50,7 @@ brew 'grip'
 brew 'direnv'
 brew 'fasd'
 brew 'tig'
+brew 'nano'
 
 cask 'spectacle'
 cask 'skitch'
@@ -67,6 +65,6 @@ cask 'spotify'
 cask 'iterm2'
 
 # web
-cask 'google-chrome'
+ cask 'google-chrome'
 cask 'slack'
 
