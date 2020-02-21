@@ -1,7 +1,6 @@
 cask_args appdir: '/Applications'
 
 # taps
-tap 'caskroom/homebrew-cask' || true
 tap 'homebrew/core' || true
 
 # version control
