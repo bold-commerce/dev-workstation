@@ -1,6 +1,7 @@
 cask_args appdir: '/Applications'
 
 # taps
+tap 'caskroom/homebrew-cask' || true
 tap 'homebrew/core' || true
 
 # version control
@@ -61,6 +62,7 @@ cask 'skitch'
 cask 'ngrok'
 cask 'docker'
 brew 'kubernetes-cli'
+brew 'cloudflared'
 
 # fun
 cask 'spotify'
