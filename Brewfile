@@ -62,6 +62,7 @@ cask 'skitch'
 cask 'ngrok'
 cask 'docker'
 brew 'kubernetes-cli'
+brew 'cloudflared'
 
 # fun
 cask 'spotify'
