@@ -1,7 +1,7 @@
 cask_args appdir: '/Applications'
 
 # taps
-tap 'caskroom/homebrew-cask' || true
+tap 'homebrew/cask' || true
 tap 'homebrew/core' || true
 
 # version control
@@ -15,10 +15,10 @@ brew 'bash-completion'
 # languages
 brew 'node'
 brew 'go'
-brew 'php71'
-brew 'php56'
+brew 'php@7.2'
+brew 'php@7.3'
+brew 'brew-php-switcher'
 brew 'python3'
-
 brew 'rbenv'
 brew 'ruby-build'
 
@@ -62,7 +62,7 @@ cask 'skitch'
 cask 'ngrok'
 cask 'docker'
 brew 'kubernetes-cli'
-brew 'cloudflared'
+brew 'cloudflare/cloudflare/cloudflared'
 
 # fun
 cask 'spotify'
