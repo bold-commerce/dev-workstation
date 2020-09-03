@@ -42,6 +42,11 @@ The installation uses a [Brewfile](Brewfile) of packages and a few scripts.
 - [ruby](https://www.ruby-lang.org/en/)
 - [python3](https://www.python.org/)
 
+### Legacy PHP
+
+Brew does not support End of life versions of PHP. However if you still need them,
+The binaries and instructions to install them can be found here https://php-osx.liip.ch/
+
 ### Editors/IDE
 - [phpstorm](https://www.jetbrains.com/phpstorm/)
 - [vim](http://vim-bootstrap.com/)
