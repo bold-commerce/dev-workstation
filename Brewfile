@@ -29,7 +29,7 @@ brew 'yarn'
 # databases
 brew 'mysql'
 brew 'redis'
-cask 'sequel-pro'
+cask 'sequel-ace'
 
 # messaging
 brew 'rabbitmq'
