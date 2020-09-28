@@ -62,6 +62,7 @@ The binaries and instructions to install them can be found here https://php-osx.
 ### Databases
 - [mysql](https://www.mysql.com)
 - [redis](https://redis.io/)
+- [Sequel Ace](https://github.com/Sequel-Ace/Sequel-Ace)
 
 ## Messaging
 - [rabbitmq](https://www.rabbitmq.com/)
